@@ -1,0 +1,54 @@
+#total {
+    width: 1500px;
+    height: auto;
+    margin: auto;
+  }
+  #topo {
+    width: 1500px;
+    height: 130px;
+    background-color: black;
+  }
+
+  
+  #menu {
+    width: 500px;
+    height: 600px;
+    background-color: black; 
+    margin-top: 10px;
+  }
+  #menu1 {
+    width: 400px;
+    height: 100px;
+    background-color: lightgray;
+    border: solid white 2px;
+    margin: 45px 10px 10px 45px;
+  }
+  #menu2 {
+    width: 400px;
+    height: 100px;
+    background-color: lightgray;
+    border: solid white 2px;
+    margin: 45px 10px 10px 45px;
+  }
+  #menu3 {
+    width: 400px;
+    height: 100px;
+    background-color: lightgray;
+    border: solid white 2px;
+    margin-left: 45px;
+    margin: 45px 10px 10px 45px;
+  }
+  #menu4 {
+    width: 400px;
+    height: 100px;
+    background-color: lightgray;
+    border: solid white 2px;
+    margin: 45px 10px 10px 45px;
+  }
+  #conteudo{
+  width: 1000px;
+  height: 600px;
+  background-color: lightgray;
+  float: right;
+ }
+
